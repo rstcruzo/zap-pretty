@@ -1,4 +1,4 @@
-module github.com/maoueh/zap-pretty
+module github.com/rstcruzo/zap-pretty
 
 go 1.16
 
